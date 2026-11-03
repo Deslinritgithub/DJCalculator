@@ -1,0 +1,16 @@
+###
+POST http://127.0.0.1:8000/addition/
+content-type:application/json
+
+{
+    "num1":5,
+    "num2":10
+}
+
+
+POST http://127.0.0.1:8000/addition/
+content-type:application/json
+{
+    "num":90,
+    "mum2":183
+}
